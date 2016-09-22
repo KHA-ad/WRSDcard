@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WRSDcard.iml" filepath="$PROJECT_DIR$/WRSDcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrsdcard/wrsdcard.iml" filepath="$PROJECT_DIR$/wrsdcard/wrsdcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrsdcard2/wrsdcard2.iml" filepath="$PROJECT_DIR$/wrsdcard2/wrsdcard2.iml" />
+    </modules>
+  </component>
+</project>
